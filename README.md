@@ -96,7 +96,7 @@ The application is built with modularity in mind:
 ```bash
 git clone https://github.com/Youssef-Ali-971/hardware-activity
 cd hardware-activity
-pip install -r requirements.txt  # Create this file with dependencies
+pip install -r requirements.txt 
 ```
 
 ## 📋 Requirements
@@ -123,7 +123,7 @@ pip install --upgrade psutil textual pandas matplotlib
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ## 👨‍💻 Author
 
